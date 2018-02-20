@@ -1,3 +1,5 @@
+package de.dhbw.verteiltesysteme;
+
 import java.io.*;
 import java.net.Socket;
 

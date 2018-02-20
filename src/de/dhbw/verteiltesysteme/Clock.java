@@ -1,3 +1,5 @@
+package de.dhbw.verteiltesysteme;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 public class Clock {

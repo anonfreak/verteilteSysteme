@@ -1,4 +1,5 @@
-import java.awt.image.BufferedImage;
+package de.dhbw.verteiltesysteme;
+
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;

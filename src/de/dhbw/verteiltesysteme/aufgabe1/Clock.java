@@ -1,4 +1,4 @@
-package de.dhbw.verteiltesysteme;
+package de.dhbw.verteiltesysteme.aufgabe1;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
